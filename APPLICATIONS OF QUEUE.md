@@ -58,7 +58,6 @@ Calculatewaitingtime(at,bt,N)
 ### OUTPUT
 <img width="1187" height="526" alt="image" src="https://github.com/user-attachments/assets/463f06cc-818f-4847-a763-63dc9138f5fb" />
 ### RESULT
-herefore, the output is the example to write a Python program to implement CPU Process Scheduling using a queue.
+Therefore, the output is the example to write a Python program to implement CPU Process Scheduling using a queue.
 
-### RESULT
 
